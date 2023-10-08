@@ -1,3 +1,1 @@
 # metorodoor
-
-これはじどめ
